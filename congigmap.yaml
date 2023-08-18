@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: app-config
 data:
-  config_value: your_config_value_here
+  config_value: test
   
